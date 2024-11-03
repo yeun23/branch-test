@@ -1,5 +1,7 @@
 first edition
 second edition
 third edition
-issue resolved
+issue resloved
 Hotfix team's solution
+New function added
+Team upgraded
